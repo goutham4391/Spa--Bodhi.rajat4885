@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.afterpay.com	TRUE	/	FALSE	1999999999	__cf_bm	C8K_8jEFGIxk8wsPbYrA_xFbJt88dj4NpkgoaCgGZno-1668340143-0-Abld7Xt+1itXWDdjc+lfwevG0Tq/9hP2K0w/puO7su0y4LoHCifPLTd7LVHIhQB6hxgkWz6fJ45Dfbk89gsosbQatYuELj08gaH5iwDSIAda
+js.afterpay.com	TRUE	/	FALSE	1999999999	SameSite	None
+
